@@ -1,1 +1,1 @@
-![Zest logo](/assets/logo.png)
+![Zest logo](/assets/logo-small.png)
