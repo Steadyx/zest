@@ -49,7 +49,7 @@ yarn add zest
 Here's a simple example to get you started:
 
 ```typescript
-import { createElement, render } from "zest";
+import { render } from "zest";
 
 const App = () => {
   return (
