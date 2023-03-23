@@ -16,6 +16,8 @@
   </a>
 </p>
 
+(Currently WIP)
+
 Zest is a lightweight, powerful, and extensible frontend library for building modern web applications with TypeScript. Zest is inspired by the simplicity of React and aims to provide an easy-to-use, yet flexible way to create beautiful user interfaces. Co-authored by GPT-4, Zest combines cutting-edge AI technology with human-driven design principles to deliver a unique and efficient development experience.
 
 ## 🚀 Features
