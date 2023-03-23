@@ -49,7 +49,7 @@ yarn add @yourusername/zest
 Here's a simple example to get you started:
 
 ```typescript
-import { createElement, render } from "@yourusername/zest";
+import { createElement, render } from "zest";
 
 const App = () => {
   return (
