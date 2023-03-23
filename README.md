@@ -1,11 +1,7 @@
 # Project Zest 🍋
 
 <p align="center">
-  <img src="https://your-image-url.com/logo.png" alt="Zest Logo" width="300">
-</p>
-
-<p align="center">
-   ![Version](https://img.shields.io/badge/version-1.0.0-blue) ![License](https://img.shields.io/badge/license-MIT-green) ![Build](https://img.shields.io/badge/build-passing-brightgreen) ![Coverage](https://img.shields.io/badge/coverage-100%25-success)
+  <img src="https://your-image-url.com/logo-small.png" alt="Zest Logo" width="300">
 </p>
 
 <p align="center">
