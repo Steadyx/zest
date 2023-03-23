@@ -1,7 +1,7 @@
 # Project Zest 🍋
 
 <p align="center">
-  <img src="https://your-image-url.com/logo-small.png" alt="Zest Logo" width="300">
+  <img src="/assets/logo-small.png" alt="Zest Logo" width="300">
 </p>
 
 <p align="center">
