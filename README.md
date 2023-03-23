@@ -41,7 +41,7 @@ npm install zest
 Or yarn
 
 ```bash
-yarn add @yourusername/zest
+yarn add zest
 ```
 
 ## 🛠️ Usage
