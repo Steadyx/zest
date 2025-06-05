@@ -27,24 +27,6 @@ Zest is a lightweight, powerful, and extensible frontend library for building mo
 - Virtual DOM for efficient updates
 - TypeScript support for type safety and better developer experience
 
-## 📚 Documentation
-
-Visit our [documentation website](https://your-documentation-url.com) to learn more about Project Zest and how to get started with building your own applications.
-
-## 📦 Installation
-
-Install Zest using npm:
-
-```bash
-npm install zest
-```
-
-Or yarn
-
-```bash
-yarn add zest
-```
-
 ## 🛠️ Usage
 
 Here's a simple example to get you started:
